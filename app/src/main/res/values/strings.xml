@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Habits</string>
+    <string name="addString">Add</string>
+    <string name="headline">Habit tracker</string>
+    <string name="addHabit">Name:</string>
+    <string name="strBack"> &lt;&lt;&lt; </string>
+    <string name="strAddWeek">Add a week</string>
+    <string name="actionInfo">About</string>
+    <string name="info_statement">Simple habit tracking app based on the idea that it takes 21 days to form a new habit</string>
+    <string name="about">About</string>
+    <string name="progress">Progress</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Remove</string>
+    <string name="choose">Choose action</string>
+    <string name="habit">Habit </string>
+    <string name="remove"> has been removed.</string>
+    <string name="stats">Statistics</string>
+    <string name="days">days</string>
+    <string name="week">Week</string>
+    <string name="rate">Rate this app</string>
+</resources>
