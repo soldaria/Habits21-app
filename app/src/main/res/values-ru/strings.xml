@@ -6,6 +6,7 @@
     <string name="strBack"> &lt;&lt;&lt; </string>
     <string name="strAddWeek">Добавить неделю</string>
     <string name="actionInfo">О приложении</string>
+    <string name="actionExit">Выход</string>
     <string name="info_statement">Приложение для формирования полезных привычек по методу 21 дня</string>
     <string name="about">О приложении</string>
     <string name="progress">Прогресс привычек</string>
@@ -20,4 +21,7 @@
     <string name="days">дн.</string>
     <string name="week">Неделя</string>
     <string name="rate">Оцените приложение</string>
+    <string name="app_id">ca-app-pub-4575219139025372~7010651430</string>
+    <string name="banner_id">ca-app-pub-4575219139025372/7174302963</string>
+    <string name="yourate">Вы оценили на</string>
 </resources>

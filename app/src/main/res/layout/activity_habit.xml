@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.v7.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/back_img"
     android:orientation="vertical"
-    tools:context="com.example.habits21.com.example.myapp.HabitActivity">
+    tools:context="com.example.myapp.HabitActivity">
 
     <TextView
         android:id="@+id/habitName"
@@ -49,9 +49,4 @@
 
     </ScrollView>
 
-
-
-
-
-
-</android.support.v7.widget.LinearLayoutCompat>
+</LinearLayout>

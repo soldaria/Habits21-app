@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.v7.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/ChartLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/back_img"
-    tools:context="com.example.habits21.com.example.myapp.ChartActivity">
+    tools:context="com.example.myapp.ChartActivity">
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
         android:id="@+id/layout"
@@ -27,4 +27,4 @@
             android:id="@+id/graph" />
     </LinearLayout>
 
-</android.support.v7.widget.LinearLayoutCompat>
+</LinearLayout>

@@ -27,7 +27,7 @@
         android:text="@string/rate"/>
 
     <RatingBar
-        android:id="@+id/ratingBar"
+        android:id="@+id/rating_bar"
         style="?android:attr/ratingBarStyle"
         android:theme="@style/Theme.Rating"
         android:layout_width="wrap_content"

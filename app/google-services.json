@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "83183428189",
+    "firebase_url": "https://habits21-e2cf2.firebaseio.com",
+    "project_id": "habits21-e2cf2",
+    "storage_bucket": "habits21-e2cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83183428189:android:df22ebedafef81e5",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83183428189-417atpet3qfd7ajgua790ht4448tahjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX-u0jrAydxqdmJd27mbr52cxNSivSoeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83183428189-417atpet3qfd7ajgua790ht4448tahjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

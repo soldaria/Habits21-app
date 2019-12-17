@@ -5,6 +5,7 @@ import java.util.ArrayList;
 
 
 public class Habit implements Serializable {
+
     private String name;
     private int daysCount;
     public ArrayList<String> greenList;
